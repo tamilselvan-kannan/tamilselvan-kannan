@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamilselvan-kannan
 - 👀 I’m interested in making things or tools for progressive community
 - 🌱 I’m currently learning pyton and open source technlogies
-- 💞️ I’m looking to collaborate on any social or community causes or developer utlity 
+- 💞️ I’m new and open to collaborate on any social or community causes or developer utlity tools
 - 📫 How to reach me email me.
 
 <!---
